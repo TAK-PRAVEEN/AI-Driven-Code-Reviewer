@@ -72,8 +72,6 @@ Here is an overview of the key files in the repository:
 ├── 📄 code_parser.py          # Handles parsing of Python code (AST)
 ├── 📄 error_detector.py       # Identifies syntax and logical errors
 ├── 📄 style_checker.py        # Checks code for style and PEP-8 compliance
-├── 📄 prompt_ui.py            # UI components for input prompts
-├── 📄 node_visitor.py         # Helper for traversing the AST nodes
 ├── 📄 requirements.txt        # List of Python dependencies
 └── 📄 logo.png                # Project logo
 
