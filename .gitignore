@@ -12,7 +12,6 @@ __pycache__/
 a.py
 chatbot.py
 chatmodel_google.py
-code_parser.py
 demo_ast_parse_unparse.py
 demo_nodeVisitor.py
 demo_nodeVisitor1.py
