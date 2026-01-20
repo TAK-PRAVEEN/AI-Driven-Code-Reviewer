@@ -1,0 +1,26 @@
+.env
+/venv
+/.streamlit/secrets.toml
+
+# Python compiled files (junk files created when you run code)
+__pycache__/
+*.pyc
+
+# System files (if you or teammates use Mac)
+.DS_Store
+
+a.py
+chatbot.py
+chatmodel_google.py
+code_parser.py
+demo_ast_parse_unparse.py
+demo_nodeVisitor.py
+demo_nodeVisitor1.py
+demo.py
+embedding_google_query.py
+node_visitor.py
+prompt_ui.py
+test.py
+
+.devcontainer/devcontainer.json
+traverse_python_code_demo.py
